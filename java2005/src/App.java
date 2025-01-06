@@ -46,3 +46,8 @@ public class App {
         }
     }
 }
+
+//git init
+//git init
+//git commit -m"changed made"
+//git remote add origin ""
